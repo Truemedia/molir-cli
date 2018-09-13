@@ -1,0 +1,33 @@
+{
+  "name": "molir-cmd",
+  "version": "1.0.0",
+  "description": "Molir (A.k.a Most Likely/Obvious Intent Recogniser) as command line tool",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/molir-cmd.git"
+  },
+  "keywords": [
+    "molir",
+    "classification",
+    "nlp",
+    "intent",
+    "recognition",
+    "language"
+  ],
+  "author": "Wade Penistone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Truemedia/molir-cmd/issues"
+  },
+  "homepage": "https://github.com/Truemedia/molir-cmd#readme",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "molir": "^1.0.2",
+    "signale": "^1.3.0",
+    "yargs": "^12.0.2"
+  }
+}
