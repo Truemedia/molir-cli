@@ -1,5 +1,5 @@
 # Molir CMD
-Molir (A.k.a Most Likely/Obvious Intent Recogniser) as command line tool
+[Molir](https://www.npmjs.com/package/molir) (A.k.a Most Likely/Obvious Intent Recogniser) as command line tool
 
 ## Installation
 
