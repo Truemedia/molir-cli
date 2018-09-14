@@ -1,6 +1,6 @@
 {
   "name": "molir-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Molir (A.k.a Most Likely/Obvious Intent Recogniser) as command line tool",
   "bin": "src/index.js",
   "scripts": {
