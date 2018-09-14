@@ -5,16 +5,16 @@ Molir (A.k.a Most Likely/Obvious Intent Recogniser) as command line tool
 
 NPM
 ```bash
-    npm i -g molir-cmd
+    npm i -g molir-cli
 ```
 
 Yarn
 ```bash
-    yarn global molir-cmd
+    yarn global molir-cli
 ```
 
 ## Usage
 Bash
 ```bash
-    molir-cmd --score=0.75 --i=sample_intents.json --t='Whats todays news?'
+    molir-cli --score=0.75 --i=sample_intents.json --t='Whats todays news?'
 ```

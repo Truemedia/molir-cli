@@ -1,8 +1,8 @@
 {
-  "name": "molir-cmd",
+  "name": "molir-cli",
   "version": "1.0.0",
   "description": "Molir (A.k.a Most Likely/Obvious Intent Recogniser) as command line tool",
-  "main": "src/index.js",
+  "bin": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

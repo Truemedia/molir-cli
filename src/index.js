@@ -1,7 +1,10 @@
+#!/usr/bin/env node
+
 const signale = require('signale');
 const jsonfile = require('jsonfile');
 
 const IntentClassifier = require('molir/molir');
+
 const yargs = require('yargs')
     .usage("$0 --i=intents.json --s=0.75 --txt='Whats todays news?'")
     .option('score', {
